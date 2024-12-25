@@ -7,6 +7,8 @@ sites:
     url: https://social.raitisoja.net
   - name: Streams site
     url: https://raitisoja.com
+  - name: Tiny Tiny RSS
+    url: https://feeds.raitisoja.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
