@@ -34,5 +34,23 @@
     "timeMonth": 1052,
     "timeYear": 1052,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Tiny Tiny RSS",
+    "url": "https://feeds.raitisoja.cloud",
+    "icon": "https://icons.duckduckgo.com/ip3/feeds.raitisoja.cloud.ico",
+    "slug": "tiny-tiny-rss",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 770,
+    "timeDay": 770,
+    "timeWeek": 770,
+    "timeMonth": 770,
+    "timeYear": 770,
+    "dailyMinutesDown": {}
   }
 ]
