@@ -2,7 +2,7 @@
   {
     "name": "Friendica social Site",
     "url": "https://social.raitisoja.net",
-    "icon": "https://icons.duckduckgo.com/ip3/social.raitisoja.net.ico",
+    "icon": "https://social.raitisoja.net/images/friendica-192.png",
     "slug": "friendica-social-site",
     "status": "up",
     "uptime": "100.00%",
@@ -51,6 +51,24 @@
     "timeWeek": 770,
     "timeMonth": 770,
     "timeYear": 770,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Markku's Forgejo",
+    "url": "https://git.raitisoja.cloud",
+    "icon": "https://icons.duckduckgo.com/ip3/git.raitisoja.cloud.ico",
+    "slug": "markku-s-forgejo",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 983,
+    "timeDay": 983,
+    "timeWeek": 983,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {}
   }
 ]
