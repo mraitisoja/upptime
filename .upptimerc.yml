@@ -15,6 +15,9 @@ sites:
   - name: Tiny Tiny RSS
     url: https://feeds.raitisoja.cloud
     maxResponseTime: 2500
+  - name: Markku's Forgejo
+    url: https://git.raitisoja.cloud
+    maxResponseTime: 2500
 
 
 status-website:
