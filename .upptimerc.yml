@@ -1,14 +1,21 @@
 # Change these first
 owner: mraitisoja # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
+assignees:
+  - mraitisoja
+user-agent: mraitisoja
 sites:
   - name: Friendica social Site
     url: https://social.raitisoja.net
+    icon: https://social.raitisoja.net/images/friendica-192.png
+    maxResponseTime: 2500
   - name: Streams site
     url: https://raitisoja.com
+    maxResponseTime: 2500
   - name: Tiny Tiny RSS
     url: https://feeds.raitisoja.cloud
+    maxResponseTime: 2500
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
