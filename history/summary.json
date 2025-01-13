@@ -58,19 +58,19 @@
     "url": "https://git.raitisoja.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/git.raitisoja.cloud.ico",
     "slug": "markku-s-forgejo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1049,
-    "timeDay": 1240,
-    "timeWeek": 984,
-    "timeMonth": 1049,
-    "timeYear": 1049,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1038,
+    "timeDay": 1032,
+    "timeWeek": 964,
+    "timeMonth": 1038,
+    "timeYear": 1038,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 11
     }
   }
 ]
