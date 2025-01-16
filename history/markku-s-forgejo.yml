@@ -1,7 +1,7 @@
 url: https://git.raitisoja.cloud
-status: up
+status: degraded
 code: 200
-responseTime: 842
-lastUpdated: 2025-01-16T22:49:44.049Z
+responseTime: 3080
+lastUpdated: 2025-01-16T23:04:23.680Z
 startTime: 2024-12-25T20:22:35.736Z
 generator: Upptime <https://github.com/upptime/upptime>
