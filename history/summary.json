@@ -4,18 +4,20 @@
     "url": "https://social.raitisoja.net",
     "icon": "https://social.raitisoja.net/images/friendica-192.png",
     "slug": "friendica-social-site",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 685,
-    "timeWeek": 878,
-    "timeMonth": 790,
-    "timeYear": 824,
-    "dailyMinutesDown": {}
+    "time": 871,
+    "timeDay": 2967,
+    "timeWeek": 1424,
+    "timeMonth": 944,
+    "timeYear": 871,
+    "dailyMinutesDown": {
+      "2025-03-25": 0
+    }
   },
   {
     "name": "Streams site",
