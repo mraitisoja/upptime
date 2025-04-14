@@ -42,18 +42,20 @@
     "url": "https://feeds.raitisoja.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/feeds.raitisoja.cloud.ico",
     "slug": "tiny-tiny-rss",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 900,
-    "timeWeek": 747,
-    "timeMonth": 681,
-    "timeYear": 661,
-    "dailyMinutesDown": {}
+    "time": 694,
+    "timeDay": 2633,
+    "timeWeek": 1199,
+    "timeMonth": 796,
+    "timeYear": 694,
+    "dailyMinutesDown": {
+      "2025-04-14": 0
+    }
   },
   {
     "name": "Markku's Forgejo",
