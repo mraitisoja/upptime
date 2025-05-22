@@ -1,7 +1,7 @@
 url: https://feeds.raitisoja.cloud
-status: down
+status: degraded
 code: 503
-responseTime: 766
-lastUpdated: 2025-05-21T23:04:20.972Z
+responseTime: 5802
+lastUpdated: 2025-05-22T11:57:33.813Z
 startTime: 2024-12-25T19:17:38.506Z
 generator: Upptime <https://github.com/upptime/upptime>
